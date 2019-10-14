@@ -1,4 +1,4 @@
-# strapi-provider-upload-ftp
+# strapi-provider-upload-ftp-hash
 
 Uses [promise-ftp]() client module, which is just a `Promise` wrapper around the original [ftp](https://www.npmjs.com/package/ftp) client module.
 
@@ -27,6 +27,14 @@ Having such a configuration
 
 the resulting url usable from `strapi` would be something like:
 `https://example.com/images/486083b1e1dc405ea5a487f120bc09ca.png`
+
+## NPM
+
+This is available on NPM:
+| Description | Information |
+| --------- | ------------------------------------------------------------------------ |
+| NPM url| https://www.npmjs.com/package/strapi-provider-upload-ftp-hash |
+| NPM install | npm i strapi-provider-upload-ftp-hash |
 
 ## Resources
 

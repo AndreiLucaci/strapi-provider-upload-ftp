@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-upload-ftp",
+  "name": "strapi-provider-upload-ftp-hash",
   "version": "3.0.0-beta.16.8",
   "description": "FTP plugin for upload",
   "homepage": "http://strapi.io",
