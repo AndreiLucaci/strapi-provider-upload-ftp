@@ -23,18 +23,18 @@
   "author": {
     "email": "lucaciandrei@outlook.com",
     "name": "Andrei Lucaci",
-    "url": "https://github.com/AndreiLucaci"
+    "url": "https://github.com/AndreiLucaci/strapi-provider-upload-ftp"
   },
   "maintainers": [
     {
-      "email": "andrei.lucaci@code4nord.com",
+      "email": "lucaciandrei@outlook.com",
       "name": "Andrei Lucaci",
-      "url": "http://strapi.io"
+      "url": "https://github.com/AndreiLucaci/strapi-provider-upload-ftp"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "https://github.com/AndreiLucaci/strapi-provider-upload-ftp"
   },
   "bugs": {
     "url": "https://github.com/strapi/strapi/issues"
