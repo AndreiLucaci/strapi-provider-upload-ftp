@@ -31,6 +31,7 @@ the resulting url usable from `strapi` would be something like:
 ## NPM
 
 This is available on NPM:
+
 | Description | Information |
 | --------- | ------------------------------------------------------------------------ |
 | NPM url| https://www.npmjs.com/package/strapi-provider-upload-ftp-hash |
